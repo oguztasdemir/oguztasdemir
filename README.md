@@ -10,6 +10,8 @@ Yazılıma 2015 yılında Lua diliyle başladım.
 
 2022 yılının Ocak ayında Udemy platformu üzerinden "Mustafa Murat Coşkun" adlı eğitmenin 42 saatlik Python ve 98 saatlik Web Site eğitimini satın aldım ve bu eğitimlere çalıştım.
 
+2022 yılında İstanbul Medeniyet Üniversitesi'nin GDSC Medeniyet ile yapmış olduğu ortak BIL101 eğitimine katılarak Python hakkında pratik yaptım. Bu yaptığım pratikleri GDSC_Medeniyet adlı klasörümde görebilirsiniz. Temel seviye kodlarda çalıştık.
+
 2022 yılında Unity kullanmayı öğrendim. Python ve Web Sitede ustalaştıktan sonra C+ dilini de öğrenerek kendi 2D Web oyunlarımı yapma planım var. 
 
 Yazılımda amaçladığım hedef kendi Web Sitelerimi kurarak E-Ticaret'imde 1 adım öne çıkmak olacaktır. Bunlara ek olarakta basit 2D oyunlar kodlayarak kendi çapımda oyunlar yaparak arkadaşlarımla oynamak olacaktır. İleriki zamanlarda ciddi oyun projeleri düşünebilirim.
