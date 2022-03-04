@@ -1,4 +1,4 @@
-√ Merhaba, Ben Oğuz Taşdemir, 9 Mayıs 2002 doğumluyum. Şişli Anadolu Lisesi'nden 2020 yılında mezun oldum. 2021 yılında İstanbul Medeniyet Üniversitesi Matematik Bölümünü kazandım.
+√ Merhaba, Ben Oğuz Taşdemir, 9 Mayıs 2002, İstanbul doğumluyum. Şişli Anadolu Lisesi'nden 2020 yılında mezun oldum. 2021 yılında İstanbul Medeniyet Üniversitesi Matematik Bölümünü kazandım.
 
 
 √ Şuan ileri seviye olarak Python-Lua biliyorum, temel ve orta düzey olarakta HTML-CSS-JAVA bilgim var.
