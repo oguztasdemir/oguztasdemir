@@ -18,7 +18,7 @@
 
   --> "(40+ Saat) Python | Sıfırdan İleri Seviye Programlama (2020)" eğitiminde başlıkta belirtildiği gibi Python dili eğitimi aldım.
   
-  --> "Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine" eğitiminde de HTML,CSS,Node,JavaScript,React,Angular,ASP.NET Core eğitimi aldım.
+  --> "Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine" eğitiminde de HTML, CSS, Node, JavaScript, React, Angular, ASP.NET Core eğitimi aldım.
 
 
 √ 2022 yılında İstanbul Medeniyet Üniversitesi'nin GDSC Medeniyet ile yapmış olduğu ortak BIL101 eğitimine katılarak Python hakkında pratik yaptım. Bu yaptığım pratikleri GDSC_Medeniyet adlı klasörümde görebilirsiniz. Temel seviye kodlarda çalıştık.
