@@ -67,9 +67,3 @@ I started coding in 2013 with Lua. I am a Mathematics student at Istanbul Univer
 
 ---
 
-### ⚙️ İş Akışım / My Workflow
-
-- 🔍 **Analiz:** Matematiksel modelleme.
-- 🛠️ **Veri Toplama:** Selenium ve BeautifulSoup ile scraping.
-- 🧪 **Modelleme:** Makine öğrenmesi algoritmaları.
-- 📈 **Görselleştirme:** Matplotlib ve Seaborn ile sunum.
