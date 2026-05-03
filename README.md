@@ -1,95 +1,75 @@
-# 🚀 Oğuz Taşdemir | Mathematics & AI Researcher
+# Oğuz Taşdemir
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Oguz%20Tasdemir&fontSize=70&animation=fadeIn&fontAlignY=40" />
-</p>
+### Matematik Öğrencisi | Veri & ML Meraklısı
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353?originalSubdomain=tr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:oztsdmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353?originalSubdomain=tr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:oztsdmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍🚀 Profesyonel Profil / Professional Profile
+## 👋 Hakkımda / About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🇹🇷 Hakkımda</h4>
-      Matematiksel disiplini, modern AI teknolojileriyle harmanlayan bir araştırmacıyım. 100.000+ verilik setlerde %89+ başarı oranıyla hibrit modeller geliştiriyor ve ticari otomasyon botları inşa ediyorum.
-      <ul>
-        <li>🎓 <b>Matematik</b> Bölümü Öğrencisi</li>
-        <li>🤖 <b>AI & ML</b> Researcher (%89.38 Accuracy)</li>
-        <li>🕷️ <b>Web Scraping</b> & Automation Specialist</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🇺🇸 About Me</h4>
-      I am a researcher blending mathematical discipline with modern AI. I develop hybrid models with 89%+ accuracy on 100k+ datasets and build commercial automation bots.
-      <ul>
-        <li>🎓 <b>Mathematics</b> Student</li>
-        <li>🤖 <b>AI & ML</b> Researcher (%89.38 Accuracy)</li>
-        <li>🕷️ <b>Web Scraping</b> & Automation Specialist</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**🇹🇷 Türkçe**
+2013 yılında Lua dili ile yazılıma başladım. İstanbul Üniversitesi'nde Matematik okuyorum. Matematik bilgilerimi Python kullanarak veri projelerine ve makine öğrenmesine aktarıyorum. 2018'de Arduino, 2021'de web scraping (Selenium/BS4) ile uğraştım. Şu an tamamen makine öğrenmesi ve veri mühendisliği üzerine kendimi geliştiriyorum.
+
+**🇺🇸 English**
+I started coding in 2013 with Lua. I am a Mathematics student at Istanbul University. I apply my mathematical knowledge to data projects and machine learning using Python. I worked with Arduino in 2018 and web scraping (Selenium/BS4) in 2021. Currently, I am focused on improving myself in machine learning and data engineering.
 
 ---
 
-### 🛠️ Teknik Yetkinlikler / Tech Stack
+## ⏳ Yolculuğum / My Journey
 
-#### 💻 Diller & Temeller / Languages & Fundamentals
+- 🔹 **2013:** Lua ile başlangıç.
+- 🤖 **2018:** Arduino ve Robotik eğitimi.
+- 🐍 **2019:** Python'a geçiş.
+- 🕷️ **2021:** Web Scraping (Selenium & BS4).
+- 🧠 **2025:** Makine Öğrenmesi ve Veri Mühendisliği.
+
+---
+
+## 🚀 Hedeflerim / My Goals
+
+- Matematik bilgilerimi yazılım projelerinde kullanmak.
+- Veri bilimi ve yapay zeka alanında uzmanlaşmak.
+- Verimli ve hızlı algoritmalar geliştirmek.
+
+---
+
+## 🛠️ Yetkinlikler / Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,lua,postgres,git,vscode,linux&theme=dark" />
-</p>
-
-#### 📊 Veri Bilimi & Matematik / Data Science & Math
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-%234470B8.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
-
-#### 🤖 Otomasyon & AI / Automation & AI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,openai&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4470B8?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requests-black?style=for-the-badge&logo=requests&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-e36709?style=for-the-badge&logo=MATLAB&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeX-000000?style=for-the-badge&logo=tex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Öne Çıkan Başarılar / Featured Achievements
-
-- 🔬 **Credit Risk Model (%89.38 Success):** 100k veri üzerinde PCA ve Stacking Ensemble mimarisi ile geliştirilmiş hibrit model.
-- 🤖 **Commercial Automation:** Gardrops ve Instagram platformları için Selenium & BS4 tabanlı ticari bot sistemleri.
-- 👥 **GDSC Lead/Mentor:** Google Developer Student Clubs bünyesinde Python ve Veri Bilimi eğitmenliği.
-
----
-
-### 📊 İstatistikler / Stats
+## 📊 GitHub Aktivite / Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguztasdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztasdemir&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguztasdemir&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
 
 ### ⚙️ İş Akışım / My Workflow
 
-- 🔍 **Analysis:** Matematiksel modelleme ve problem tanımı.
-- 🛠️ **Scraping:** Selenium/BS4 ile ham veri toplama & ETL süreçleri.
-- 🧪 **Modeling:** Stacking Ensemble ve Hibrit ML mimarileri.
-- 🎨 **Visualization:** Seaborn ile aksiyona dönüştürülebilir görselleştirme.
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguztasdemir&theme=tokyonight" />
-</p>
+- 🔍 **Analiz:** Matematiksel modelleme.
+- 🛠️ **Veri Toplama:** Selenium ve BeautifulSoup ile scraping.
+- 🧪 **Modelleme:** Makine öğrenmesi algoritmaları.
+- 📈 **Görselleştirme:** Matplotlib ve Seaborn ile sunum.
