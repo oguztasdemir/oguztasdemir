@@ -1,7 +1,5 @@
 # Oğuz Taşdemir
 
-### Matematik Öğrencisi | Veri & ML Meraklısı
-
 <p align="left">
   <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353?originalSubdomain=tr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oztsdmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
