@@ -13,7 +13,7 @@
 2013 yılında Lua dili ile yazılıma başladım. 2026 Haziran ayında İstanbul Medeniyet Üniversitesi Matematik bölümünden mezun oldum. Matematik bilgilerimi Python kullanarak veri projelerine ve makine öğrenmesine aktarıyorum. 2018'de Arduino, 2021'de web scraping (Selenium/BS4) ile uğraştım. Şu an tamamen makine öğrenmesi ve veri mühendisliği üzerine kendimi geliştiriyorum.
 
 **🇺🇸 English**
-I started coding in 2013 with Lua. I am a Mathematics student at Istanbul University. I apply my mathematical knowledge to data projects and machine learning using Python. I worked with Arduino in 2018 and web scraping (Selenium/BS4) in 2021. Currently, I am focused on improving myself in machine learning and data engineering.
+I started coding in 2013 with Lua. I graduated Mathematics at Istanbul Medeniyet University in 2026 June. I apply my mathematical knowledge to data projects and machine learning using Python. I worked with Arduino in 2018 and web scraping (Selenium/BS4) in 2021. Currently, I am focused on improving myself in machine learning and data engineering.
 
 ---
 
