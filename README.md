@@ -1,7 +1,7 @@
 # Oğuz Taşdemir
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353?originalSubdomain=tr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oztsdmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -60,12 +60,4 @@ Yerel ağda otomatik cihaz keşfi (UDP Broadcast) ve WebSocket/TCP streaming üz
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TeX_LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Aktivite / Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguztasdemir&theme=tokyonight&area=true&hide_border=true" />
 </p>
