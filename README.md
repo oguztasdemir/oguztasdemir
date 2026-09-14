@@ -1,67 +1,38 @@
 # Oğuz Taşdemir
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353?originalSubdomain=tr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oguz-tasdemir-846889353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oztsdmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 👋 Hakkımda / About Me
-
-**🇹🇷 Türkçe**
-2013 yılında Lua dili ile yazılıma başladım. 2026 Haziran ayında İstanbul Medeniyet Üniversitesi Matematik bölümünden mezun oldum. Matematik bilgilerimi Python kullanarak veri projelerine ve makine öğrenmesine aktarıyorum. 2018'de Arduino, 2021'de web scraping (Selenium/BS4) ile uğraştım. Şu an tamamen makine öğrenmesi ve veri mühendisliği üzerine kendimi geliştiriyorum.
-
-**🇺🇸 English**
-I started coding in 2013 with Lua. I graduated Mathematics at Istanbul Medeniyet University in 2026 June. I apply my mathematical knowledge to data projects and machine learning using Python. I worked with Arduino in 2018 and web scraping (Selenium/BS4) in 2021. Currently, I am focused on improving myself in machine learning and data engineering.
+İstanbul Medeniyet Üniversitesi Matematik bölümü mezunuyum. Yazılıma 2013 yılında başladım; matematiksel modelleme ve analitik düşünce disiplinimi Python ile makine öğrenmesi, veri analitiği, dağıtık ağ protokolleri ve donanım entegrasyonlu masaüstü sistemlerine aktarıyorum.
 
 ---
 
-## ⏳ Yolculuğum / My Journey
+## 📌 Seçilmiş Çalışmalar / Featured Projects
 
-- 🔹 **2013:** Lua ile başlangıç.
-- 🤖 **2018:** Arduino ve Robotik eğitimi.
-- 🐍 **2019:** Python'a geçiş.
-- 🕷️ **2021:** Web Scraping (Selenium & BS4).
-- 🧠 **2025:** Makine Öğrenmesi ve Veri Mühendisliği.
+### 📊 [Borsa İstanbul Bilanço Karlılık Tahmini (Bitirme Tezi)](https://github.com/oguztasdemir/Borsa-Istanbul-Bilanco-Karlilik-Tahmini-Bitirme-Tezi)
+BIST'te işlem gören 230'dan fazla şirketin 10 yıllık bilanço verileri üzerinde öznitelik mühendisliği (VIF, RFE), çoklu regresyon/sınıflandırma modelleri (Random Forest, XGBoost, Stacking) ve SHAP (Açıklanabilir Yapay Zeka) analitiği içeren veri bilimi tezi.
 
----
+### 🏪 [OYMAPOS — Barkod & Perakende Satış Sistemi](https://github.com/oguztasdemir/OYMAPOS-Barkod-Sistemi)
+RS-232 seri port üzerinden terazi ve barkod okuyucu haberleşmesi, ESC/POS termal fiş yazıcı çıktısı, fatura OCR ayrıştırma ve SQLite (WAL modu) ile çalışan çevrimdışı masaüstü perakende yönetim sistemi.
 
-## 🚀 Hedeflerim / My Goals
-
-- Matematik bilgilerimi yazılım projelerinde kullanmak.
-- Veri bilimi ve yapay zeka alanında uzmanlaşmak.
-- Verimli ve hızlı algoritmalar geliştirmek.
+### 📡 [Airdrop-Local — Yerel Ağ P2P Dosya Transferi](https://github.com/oguztasdemir/Airdrop-Local)
+Yerel ağda otomatik cihaz keşfi (UDP Broadcast) ve WebSocket/TCP streaming üzerinden yüksek hızlı, kurulumsuz eşler arası (P2P) dosya ve mesaj paylaşım aracı.
 
 ---
 
-## 🛠️ Yetkinlikler / Skills
+## 🛠️ Yetkinlikler & Teknolojiler
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-4470B8?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-e36709?style=for-the-badge&logo=MATLAB&logoColor=white" />
-  <img src="https://img.shields.io/badge/TeX-000000?style=for-the-badge&logo=tex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- **Diller & Çatılar:** Python, FastAPI, Flask, Lua, JavaScript, SQL
+- **Veri Bilimi & ML:** Scikit-Learn, Pandas, NumPy, XGBoost, SHAP, PyTorch, Ollama / RAG
+- **Sistem & Veritabanı:** SQLite (WAL), PostgreSQL, WebSocket, Socket Programming, Serial COM (RS-232)
+- **Araçlar & Metodoloji:** Git, Docker, TeX / LaTeX, Linux, Windows API
 
 ---
 
-## 📊 GitHub Aktivite / Activity
+## 📊 GitHub Aktivite Grafiği
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguztasdemir&theme=tokyonight&area=true&hide_border=true" />
 </p>
-
----
-
