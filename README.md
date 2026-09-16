@@ -56,11 +56,12 @@ I have been coding since 2013 and graduated with a degree in Mathematics from Is
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🕷️ Otomasyon, Web Scraping & Sistem / Automation & Systems
+### 🕷️ Otomasyon, Web Scraping & Dağıtım / Automation, Scraping & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-2C8EBB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -83,6 +84,12 @@ I have been coding since 2013 and graduated with a degree in Mathematics from Is
 **🇹🇷 TR:** ZPL ve ESC/POS termal yazıcı protokolleriyle doğrudan haberleşen, dinamik şablon motorlu hızlı barkod ve raf etiketi baskı motoru.  
 **🇺🇸 EN:** High-speed thermal receipt and shelf label printing engine communicating directly via low-level ZPL and ESC/POS protocols.  
 * **Tech Stack:** Python, ESC/POS, ZPL, Serial Port Hardware Protocols
+
+### 🎯 [KPSS Lisans GY-GK Hazırlık Platformu (Vercel Canlı)](https://github.com/oguztasdemir/KPSS-Sinav-ve-Soru-Hazirlik-Platformu)
+**🇹🇷 TR:** KPSS çıkmış soruları, akıllı hata havuzu ve süre simülasyonu sunan; Vercel Serverless ve Edge Cache üzerinde canlı yayında çalışan sınav platformu.  
+**🇺🇸 EN:** Interactive KPSS exam platform with smart error tracking and real-time timing simulator, deployed live on Vercel Serverless and Edge CDN.  
+* **Live Demo:** [kpss-lisans-hazirlik-app.vercel.app](https://kpss-lisans-hazirlik-app.vercel.app)  
+* **Tech Stack:** JavaScript ES6+, Vercel Edge, HTML5/CSS3 Glassmorphism, Analytics API
 
 ### 📡 [Airdrop-Local-P2P — Yerel Ağ Dosya Paylaşımı](https://github.com/oguztasdemir/Airdrop-Local-P2P)
 **🇹🇷 TR:** Aynı yerel ağdaki cihazlar arasında internet kotası tüketmeden sıfır yapılandırmayla (Zero-Config) çalışan yüksek hızlı P2P dosya transfer aracı.  
