@@ -10,10 +10,10 @@
 ## 👋 Hakkımda / About Me
 
 **🇹🇷 Türkçe**  
-2013 yılında yazılıma başladım. İstanbul Medeniyet Üniversitesi Matematik bölümü mezunuyum. Matematiksel düşünce altyapımı Python ile yapay zeka, yerel LLM & RAG mimarileri, veri analitiği, yerel ağ araçları ve işletmeler için pratik masaüstü/donanım yazılımları geliştirmede kullanıyorum.
+2013 yılında yazılıma başladım. İstanbul Medeniyet Üniversitesi Matematik bölümü mezunuyum. Matematiksel düşünce altyapımı Python ile yapay zeka, yerel LLM & RAG mimarileri, üretken modeller, veri analitiği, yerel ağ araçları ve işletmeler için pratik masaüstü/donanım yazılımları geliştirmede kullanıyorum.
 
 **🇺🇸 English**  
-I have been coding since 2013 and graduated with a degree in Mathematics from Istanbul Medeniyet University. I combine my mathematical foundation with Python to build AI systems, local LLM & RAG pipelines, data analytics, networking tools, and practical desktop/hardware applications.
+I have been coding since 2013 and graduated with a degree in Mathematics from Istanbul Medeniyet University. I combine my mathematical foundation with Python to build AI systems, local LLM & RAG pipelines, generative models, data analytics, networking tools, and practical desktop/hardware applications.
 
 ---
 
@@ -39,10 +39,17 @@ I have been coding since 2013 and graduated with a degree in Mathematics from Is
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### 🧠 Yapay Zeka, RAG & Veri Bilimi
+### 🧠 Derin Öğrenme, AI & RAG
 <p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diffusers-FFA000?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama_/_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+### 📊 Veri Bilimi & Makine Öğrenmesi
+<p align="left">
   <img src="https://img.shields.io/badge/CatBoost-FFA000?style=for-the-badge&logo=data&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
