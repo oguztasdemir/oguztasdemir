@@ -10,21 +10,20 @@
 ## 👋 Hakkımda / About Me
 
 **🇹🇷 Türkçe**  
-2013 yılında yazılıma başladım. İstanbul Medeniyet Üniversitesi Matematik bölümü mezunuyum. Matematiksel düşünce ve modelleme altyapımı Python ile yapay zeka, yerel LLM & RAG mimarileri, makine öğrenmesi, yerel ağ araçları ve işletmeler için pratik masaüstü/donanım yazılımları geliştirmede kullanıyorum.
+2013 yılında yazılıma başladım. İstanbul Medeniyet Üniversitesi Matematik bölümü mezunuyum. Matematiksel düşünce altyapımı Python ile yapay zeka, yerel LLM & RAG mimarileri, veri analitiği, yerel ağ araçları ve işletmeler için pratik masaüstü/donanım yazılımları geliştirmede kullanıyorum.
 
 **🇺🇸 English**  
-I have been coding since 2013 and graduated with a degree in Mathematics from Istanbul Medeniyet University. I combine my mathematical foundation with Python to build AI systems, local LLM & RAG pipelines, machine learning models, networking tools, and practical desktop/hardware applications.
+I have been coding since 2013 and graduated with a degree in Mathematics from Istanbul Medeniyet University. I combine my mathematical foundation with Python to build AI systems, local LLM & RAG pipelines, data analytics, networking tools, and practical desktop/hardware applications.
 
 ---
 
 ## ⏳ Yolculuğum / My Journey
 
 - 🔹 **2013:** Lua ile yazılıma başlangıç.
-- 📐 **2017–2021:** MATLAB, LaTeX ve Matematiksel Modelleme çalışmaları.
-- 🤖 **2018:** Arduino ve Robotik donanım projeleri.
-- 🐍 **2019:** Python ve ileri seviye algoritma geliştirme.
+- 🤖 **2018:** Arduino ve Robotik çalışmaları.
+- 🐍 **2019:** Python ve algoritma geliştirme.
 - 🕷️ **2021:** Web Otomasyonu ve Veri Çekme (Selenium, BS4).
-- 🧠 **2025–2026:** Makine Öğrenmesi, Finansal Modelleme (Bitirme Tezi), Yerel LLM / RAG ve Sistem Geliştirme.
+- 🧠 **2025–2026:** Makine Öğrenmesi, Finansal Modelleme (Bitirme Tezi) ve Sistem Geliştirme.
 
 ---
 
@@ -35,7 +34,7 @@ I have been coding since 2013 and graduated with a degree in Mathematics from Is
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeX_LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
@@ -50,10 +49,12 @@ I have been coding since 2013 and graduated with a degree in Mathematics from Is
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🗄️ Veritabanı & Sistem Araçları
+### 🕷️ Otomasyon, Web Scraping & Sistem
 <p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-2C8EBB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
